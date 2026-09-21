@@ -10,4 +10,8 @@
   <Project Path="09 Support-ärenden (Switch expressions - Switch med mönster)/09 Support-ärenden (Switch expressions - Switch med mönster).csproj" />
   <Project Path="10 Biluthyrningen (Sammansatt logik)/10 Biluthyrningen (Sammansatt logik).csproj" />
   <Project Path="11 Textanalysatorn (Strängkontroll och mönstermatchning)/11 Textanalysatorn (Strängkontroll och mönstermatchning).csproj" />
+  <Project Path="12 Trippelvalidering av användardata (Krashsäkert villkor)/12 Trippelvalidering av användardata (Krashsäkert villkor).csproj" />
+  <Project Path="13 Behörighetsmatrisen (Bitvisa flaggor och villkor)/13 Behörighetsmatrisen (Bitvisa flaggor och villkor).csproj" />
+  <Project Path="14 Mönstermatchning med Switch och Property-matchning/14 Mönstermatchning med Switch och Property-matchning.csproj" />
+  <Project Path="15 Kortslutning som logisk grindvakt (Garanterad säkerhet)/15 Kortslutning som logisk grindvakt (Garanterad säkerhet).csproj" />
 </Solution>
