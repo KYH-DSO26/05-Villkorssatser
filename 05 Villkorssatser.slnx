@@ -4,4 +4,5 @@
   <Project Path="03 Temperaturvarnaren (if-else)/03 Temperaturvarnaren (if-else).csproj" />
   <Project Path="04 Veckodagskontrollen (switch-case)/04 Veckodagskontrollen (switch-case).csproj" />
   <Project Path="05 Medlemsstatus (switch-case)/05 Medlemsstatus (switch-case).csproj" />
+  <Project Path="06 Inloggningskontroll (Logiska operatorer)/06 Inloggningskontroll (Logiska operatorer).csproj" />
 </Solution>
