@@ -5,4 +5,5 @@
   <Project Path="04 Veckodagskontrollen (switch-case)/04 Veckodagskontrollen (switch-case).csproj" />
   <Project Path="05 Medlemsstatus (switch-case)/05 Medlemsstatus (switch-case).csproj" />
   <Project Path="06 Inloggningskontroll (Logiska operatorer)/06 Inloggningskontroll (Logiska operatorer).csproj" />
+  <Project Path="07 Rabattväljaren (Nästlade if)/07 Rabattväljaren (Nästlade if).csproj" />
 </Solution>
