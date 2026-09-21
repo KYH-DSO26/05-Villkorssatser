@@ -3,4 +3,5 @@
   <Project Path="02 Dörrvakten (if-else)/02 Dörrvakten (if-else).csproj" />
   <Project Path="03 Temperaturvarnaren (if-else)/03 Temperaturvarnaren (if-else).csproj" />
   <Project Path="04 Veckodagskontrollen (switch-case)/04 Veckodagskontrollen (switch-case).csproj" />
+  <Project Path="05 Medlemsstatus (switch-case)/05 Medlemsstatus (switch-case).csproj" />
 </Solution>
