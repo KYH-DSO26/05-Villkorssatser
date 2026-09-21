@@ -8,4 +8,5 @@
   <Project Path="07 Rabattväljaren (Nästlade if)/07 Rabattväljaren (Nästlade if).csproj" />
   <Project Path="08 Åldersgränser på bio (if-else-if)/08 Åldersgränser på bio (if-else-if).csproj" />
   <Project Path="09 Support-ärenden (Switch expressions - Switch med mönster)/09 Support-ärenden (Switch expressions - Switch med mönster).csproj" />
+  <Project Path="10 Biluthyrningen (Sammansatt logik)/10 Biluthyrningen (Sammansatt logik).csproj" />
 </Solution>
