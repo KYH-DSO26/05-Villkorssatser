@@ -6,4 +6,5 @@
   <Project Path="05 Medlemsstatus (switch-case)/05 Medlemsstatus (switch-case).csproj" />
   <Project Path="06 Inloggningskontroll (Logiska operatorer)/06 Inloggningskontroll (Logiska operatorer).csproj" />
   <Project Path="07 Rabattväljaren (Nästlade if)/07 Rabattväljaren (Nästlade if).csproj" />
+  <Project Path="08 Åldersgränser på bio (if-else-if)/08 Åldersgränser på bio (if-else-if).csproj" />
 </Solution>
