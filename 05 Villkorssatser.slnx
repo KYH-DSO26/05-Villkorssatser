@@ -9,4 +9,5 @@
   <Project Path="08 Åldersgränser på bio (if-else-if)/08 Åldersgränser på bio (if-else-if).csproj" />
   <Project Path="09 Support-ärenden (Switch expressions - Switch med mönster)/09 Support-ärenden (Switch expressions - Switch med mönster).csproj" />
   <Project Path="10 Biluthyrningen (Sammansatt logik)/10 Biluthyrningen (Sammansatt logik).csproj" />
+  <Project Path="11 Textanalysatorn (Strängkontroll och mönstermatchning)/11 Textanalysatorn (Strängkontroll och mönstermatchning).csproj" />
 </Solution>
